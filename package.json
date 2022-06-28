@@ -1,0 +1,10 @@
+{
+  "name": "mentor-matching",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "csv": "^6.1.3",
+    "yargs": "^17.5.1"
+  }
+}
